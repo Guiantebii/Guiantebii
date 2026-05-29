@@ -49,9 +49,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guiantebii&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guiantebii&theme=dracula&hide_border=true&background=0D1117"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guiantebii&theme=dracula&bg_color=0D1117&hide_border=true"/>
+</div>
 ---
 
 ## 🐍 Contribution Graph
